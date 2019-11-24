@@ -1,3 +1,2 @@
 # Alchynthv0.0001
-Game built by Eddie and Kat. Very early stages of development considering the time frame (3mo).
-Kind of a dead project, considering college and also the move to Unity which has been very, very slow.
+Game built from the ground up using Slick2D and OpenGL. Created by two optimistic AP CS students. A passion project inspired by the likes of Pokemon Mystery dungeon with a potion brewing twist. All current textures are placeholders and a move to Unity may happen in the future. https://alchynth.github.io/ - website dedicated to the game.
